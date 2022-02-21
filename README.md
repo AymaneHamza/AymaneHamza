@@ -8,14 +8,14 @@
 - 🤔 I am always open to many proposals related to my studies and especially in the field of web application development.
 
 You can find me in :
-<p>
+
 <a href="https://www.linkedin.com/in/aymane-hamza-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18268217/aymane-hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aymane.hamzat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sefiane ouami" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__hamzaslan__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://twitter.com/aymane__hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 
-</p>
+
 
 <h3>Languages and Tools:</h3>
 <p>
