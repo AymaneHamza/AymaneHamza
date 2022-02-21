@@ -8,7 +8,7 @@
 - 🤔 I am always open to many proposals related to my studies and especially in the field of web application development.
 
 You can find me in :
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/aymane-hamza-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18268217/aymane-hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sefiane-ouami" height="30" width="40" /></a>
 <a href="https://www.facebook.com/aymane.hamzat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sefiane ouami" height="30" width="40" /></a>
