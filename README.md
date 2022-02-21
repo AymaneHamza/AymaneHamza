@@ -1,4 +1,4 @@
-###   <img align="left" src="https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png">
+###   <img align="left" height=200 width =400 src="https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png">
   
   I'm Hamza Aymane 👋
 
@@ -17,8 +17,8 @@ You can find me in :
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3>Languages and Tools:</h3>
+<p>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
