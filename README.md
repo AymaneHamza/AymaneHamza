@@ -1,4 +1,4 @@
-###   <img align="left" height=200 width =400 src="https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png">
+###   <img  src="https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png">
   
   I'm Hamza Aymane 👋
 
