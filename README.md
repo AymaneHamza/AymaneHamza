@@ -1,4 +1,4 @@
-###             ![logo_hello_world](https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png)
+###   <img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png">
   
   I'm Hamza Aymane 👋
 
