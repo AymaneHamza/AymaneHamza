@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Hamza Aymane
+### ![logo_hello_world](https://user-images.githubusercontent.com/75754472/154951012-37851fc3-6057-41ac-918f-0ad9abf7affa.png)
+  
+  I'm Hamza Aymane 👋
 
 
 - 🔭 I’m currently a student engineer in computer science at National School of Applied Sciences in Tetouan.
