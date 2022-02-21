@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, I'm Hamza Aymane
 
-<!--
-**AymaneHamza/AymaneHamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently a student engineer in computer science at National School of Applied Sciences in Tetouan.
+ 
+- 🤔 I am always open to many proposals related to my studies and especially in the field of web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me in :
+https://www.facebook.com/aymane.hamzat/
+https://www.linkedin.com/in/aymane-hamza-/
+https://twitter.com/aymane__hamza
+https://www.instagram.com/__hamzaslan__/
+https://stackoverflow.com/users/18268217/aymane-hamza
+
+
+
+
