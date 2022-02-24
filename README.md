@@ -3,7 +3,7 @@
  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Hamza Aymane</h1>  
 <img align="right" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
-- 🔭 I’m currently a student engineer in computer science at National School of Applied Sciences in Tetouan.
+- 🔭 I’m currently an it engineering student at National School of Applied Sciences in Tetouan.
  
 - 🤔 I am always open to many proposals related to my studies and especially in the field of web application development.
 
